@@ -1,5 +1,5 @@
 prebuilt_cxx_library(
-  name = 'boost-mpl',
+  name = 'mpl',
   header_only = True,
   header_namespace = 'boost/mpl',
   exported_headers = subdir_glob([
